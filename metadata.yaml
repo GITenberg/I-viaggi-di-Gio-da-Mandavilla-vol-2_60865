@@ -1,0 +1,29 @@
+_repo: I-viaggi-di-Gio-da-Mandavilla-vol-2_60865
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Zambrini, Francesco
+    birthdate: 1810
+    deathdate: 1887
+    gutenberg_agent_id: '36663'
+    url: http://www.gutenberg.org/2009/agents/36663
+creator:
+  author:
+    agent_name: Mandeville, John, Sir
+    alias: Maundeville, John
+    gutenberg_agent_id: '412'
+    url: http://www.gutenberg.org/2009/agents/412
+    wikipedia: http://en.wikipedia.org/wiki/John_Mandeville
+description: ''
+gutenberg_issued: '2019-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60865'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: I viaggi di Gio. da Mandavilla, vol. 2
+url: http://www.gutenberg.org/ebooks/60865
